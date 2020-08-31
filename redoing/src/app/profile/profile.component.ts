@@ -1,5 +1,5 @@
-import { Component, OnInit,Input } from '@angular/core';
 import {  ProfileService } from './../profile.service';
+import { Component, OnInit,Input } from '@angular/core';
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Users } from '../users';
