@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "redoing"
+    }
+  },
+  "defaultProject": "redoing",
+  "cli": {
+    "analytics": "68684023-e8d8-4215-9442-1e042b3e1240"
+  }
 }
