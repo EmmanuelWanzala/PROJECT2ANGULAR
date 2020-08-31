@@ -9,7 +9,7 @@ import { Repository } from '../repository';
 
 @Component({
   selector: 'app-profile',
-  templateUrl: './profile.component.html',
+  // templateUrl: './profile.component.html',
   styleUrls: ['./profile.component.css'],
   providers: [ProfileService]
 })
