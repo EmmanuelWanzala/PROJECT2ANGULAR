@@ -45,7 +45,10 @@ a {
     transition: color 0.1s ease-in, background 0.1s ease-in;
 }
 .nav-item .nav-link{
-  color: #419641;
+  color:blue;
+  background-color:lime;
+  padding-right: 700px;
+  padding-left: 0px;
 }
 a:hover,
 a:focus {
