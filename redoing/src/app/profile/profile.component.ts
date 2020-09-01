@@ -25,7 +25,7 @@ export class ProfileComponent implements OnInit {
 //   }
 
 // }
-constructor(private profileService: ProfileService) {
+constructor(public profileService: ProfileService) {
 }
 findProfile() {
 

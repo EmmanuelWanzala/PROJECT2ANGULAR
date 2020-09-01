@@ -26,7 +26,7 @@ export class ProfileService {
   private userName: string;
 
   // private clientId = '8cbc60b506c591f98a0c';
-  private accessToken = '309c1c66e90be3db8cfe495ba801750906d87668';
+  private accessToken = 'b0050122d09931a5480258e2b420737e711ea92c';
   // private clientSecret = '1941e97b08b54d07e4094c737f92b69509724391';
 
   constructor(private http: HttpClient) {
@@ -34,7 +34,7 @@ export class ProfileService {
     this.user = new Users ('', '', '', '', '','','','','',new Date);
     this.repo = new Repository('', '', '');
     console.log('Service Works!');
-    this.userName = 'EKibet';
+    this.userName = 'EmmanuelWanzala';
 
   }
   getUserInfo() {

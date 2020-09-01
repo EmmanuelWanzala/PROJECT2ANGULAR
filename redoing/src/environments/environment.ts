@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiUrl:' b0050122d09931a5480258e2b420737e711ea92c'
+  apiUrl:'b0050122d09931a5480258e2b420737e711ea92c'
 };
 
 /*
