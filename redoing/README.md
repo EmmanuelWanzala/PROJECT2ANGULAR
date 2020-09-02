@@ -33,7 +33,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Live link to the project
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/22e87cd6-8d79-46f7-a804-312dc32d48e6/deploy-status)](https://app.netlify.com/sites/jovial-nightingale-9b2d01/deploys)
 
 ## Project set up instructions
 
